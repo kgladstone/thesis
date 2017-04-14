@@ -1,0 +1,9 @@
+*.pyc
+~$*y
+*/.*
+
+*.csv
+*.png
+*.out
+*.sh
+graphs/*
